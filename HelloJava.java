@@ -10,7 +10,7 @@ public class HelloEclipse {
 		final int num = 1;
 		//Java為強行別語言
 		String a = "aaa";
-		String a = "aaa";
+		String a = "ccc";
 		final int Num;
 		Num = 10;//如果把num 宣告為常數時，此敘述有問題
 		

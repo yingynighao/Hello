@@ -13,7 +13,8 @@ public class HelloEclipse {
 		final int Num;
 		Num = 10;//如果把num 宣告為常數時，此敘述有問題
 		
-		
+		//version2
+
 //		int a,b,c;
 //		a= 12;
 //		System.out.println(num);
